@@ -18,4 +18,4 @@ Example usage:
 
 ### Outputs
 
-Basis patterns can be exported to a TeX file. Graphical representation of a module is achieved by exporting to a Python script that uses matplotlib (under construction).
+Basis patterns can be exported to a TeX file. Data can also be sent to a Python script that uses matplotlib to give a graphical representation of a module (under construction).
